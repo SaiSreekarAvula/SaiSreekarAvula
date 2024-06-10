@@ -64,6 +64,8 @@ Awards Received
 Winner of the FY’21 Accenture Celebrate Excellence Awards (ACE).
 Extra Mile - Henkel Sieger Awards for consistent performance and for winning many client appreciations for my effective analysis and communication - January 2022.
 Won multiple Spot Awards as the Best Performer of the month in the team – Feb and June 2021.
+
+
 Soft Skills
 Strong ability to lead and manage day-to-day operations, enhancements, and projects, with a focus on business impact, resource quantification, and technical evaluations.
 Forward-thinking and innovative approach to using SAP technologies for improving user experience.
