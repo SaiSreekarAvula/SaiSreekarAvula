@@ -61,6 +61,7 @@ Assisted in requirements management, identifying gaps, and supporting issue reso
 Environment: SAP ERP, SAP S/4 HANA, ServiceNow, E-Shop, POD
 
 Awards Received
+
 <a href="https://github.com/SaiSreekarAvula/SaiSreekarAvula/blob/main/Accenture%20Client%20delivery%20award.pdf" alt="Winner of the FY’21 Accenture Celebrate Excellence Awards (ACE)">Winner of the FY’21 Accenture Celebrate Excellence Awards (ACE)</a>
 
 Extra Mile - Henkel Sieger Awards for consistent performance and for winning many client appreciations for my effective analysis and communication - January 2022.
